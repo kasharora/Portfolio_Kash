@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Kash/static/css/main.9766f986.css",
+    "main.js": "/Portfolio_Kash/static/js/main.33a010f3.js",
+    "static/media/projectGlassmorphism1.png": "/Portfolio_Kash/static/media/projectGlassmorphism1.273999bf92a6291e85df.png",
+    "static/media/projectRogfree1.png": "/Portfolio_Kash/static/media/projectRogfree1.852d4bf1d76dfbcc9117.png",
+    "static/media/resume.pdf": "/Portfolio_Kash/static/media/resume.998c61a0271d6b61b33e.pdf",
+    "static/media/profile-image2.jpeg": "/Portfolio_Kash/static/media/profile-image2.776ba6a03b10188cdc09.jpeg",
+    "static/media/cartoon-compressed.png": "/Portfolio_Kash/static/media/cartoon-compressed.29210a9a9a0e7c97cbc3.png",
+    "static/media/projectWiggles1.PNG": "/Portfolio_Kash/static/media/projectWiggles1.10e6a8de87780c76c517.PNG",
+    "index.html": "/Portfolio_Kash/index.html",
+    "main.9766f986.css.map": "/Portfolio_Kash/static/css/main.9766f986.css.map",
+    "main.33a010f3.js.map": "/Portfolio_Kash/static/js/main.33a010f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9766f986.css",
+    "static/js/main.33a010f3.js"
+  ]
+}
