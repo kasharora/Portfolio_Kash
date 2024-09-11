@@ -1,0 +1,119 @@
+.about-container {
+    display: flex;
+    margin: 80px 13vw 0 18vw;
+    padding-top: 60px;
+}
+
+.profile-photo {
+    margin-left: 50px;
+    height: fit-content;
+    padding: 0;
+}
+
+.profile-photo .heading {
+    font-size: 22px;
+    font-weight: 600;
+    color: #def948;
+    width: 150%;
+}
+
+.profile-photo .img {
+    width: 200%;
+    z-index: -3;
+    height: 400px;
+ 
+}
+
+ .about-container .name {
+    line-height: 60px;
+    position: absolute;
+    right: 2vw;
+    padding-top: 20px;
+    width: 50px;
+    overflow-wrap: break-word;
+    color: #d8f948;
+    text-transform: uppercase;
+    z-index: 0;
+    font-size: 50px;
+    font-family: 'Intro', sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    background: -webkit-linear-gradient(-86deg, #ffe1a0  5%, #f6d972 53%, #d0f948 91%);
+    -webkit-background-clip: text;
+    -webkit-text-stroke: 4px transparent;
+    background-clip: text;
+    /* color: #2c2c2c; */
+    color: rgba(46, 44, 44, 0.474);
+}
+
+.about-container .aboutMe-text {
+    font-size: 18px;
+    font-weight: 200;
+    color: #fff;
+    height: fit-content;
+}
+
+.aboutMe-text span {
+    color: #f9f348;
+}
+
+.about-container .aboutMe-text h3 {
+    color: #fff;    
+    font-size: 36px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.about-container .aboutMe-text .resume {
+    color: #f9f348;
+    border-bottom: 2.5px solid #f9f348;
+    transition: all 0.3s ease-in-out;
+    display: inline-block;
+    font-weight: 800;
+}
+
+.about-container .aboutMe-text .resume:hover {
+    transform: scale(1.05);
+}
+
+@media screen and (max-width: 1150px) {
+    .about-container .aboutMe-text {
+        font-size: 16px;
+    }
+    .about-container .name {
+        font-size: 80px;
+        width: 80px;
+        line-height: 70px;
+        right: 8vw;
+    }
+}
+
+@media screen and (max-width: 925px) {
+    .about-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .heading, .about-container .name {
+        display: none;
+    }
+
+    .about-container .aboutMe-text {
+        text-align: center;
+    }
+
+    .img  {
+        display: none;
+        margin-top: 50px;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .about-container {
+        margin-left: 9vw;
+        margin-top: 0;
+        padding-top: 70px;
+    }
+}
