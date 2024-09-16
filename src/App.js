@@ -36,7 +36,7 @@ function App() {
         className = "odd"
         projectTitle="Real-Time Communication App Using MERN Stack"
         projectDesc="A real-time chat application built using the MERN stack, featuring user authentication, instant messaging, group chats, and responsive UI for seamless communication across devices."
-        projectLink=""
+        projectLink="https://chat-application-front-end-gohp.onrender.com"
         // deployedProjectLink="https://wiggles.vercel.app"
         projectImg={require('./images/projectWiggles1.PNG')}
       />
