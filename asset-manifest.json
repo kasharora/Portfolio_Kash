@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_Kash/static/css/main.9766f986.css",
-    "main.js": "/Portfolio_Kash/static/js/main.9420cd4b.js",
+    "main.js": "/Portfolio_Kash/static/js/main.0bf63a91.js",
     "static/media/projectGlassmorphism1.png": "/Portfolio_Kash/static/media/projectGlassmorphism1.273999bf92a6291e85df.png",
     "static/media/projectRogfree1.png": "/Portfolio_Kash/static/media/projectRogfree1.852d4bf1d76dfbcc9117.png",
     "static/media/resume.pdf": "/Portfolio_Kash/static/media/resume.998c61a0271d6b61b33e.pdf",
@@ -11,10 +11,10 @@
     "static/media/4thproject.PNG": "/Portfolio_Kash/static/media/4thproject.6e20ed2a2517f1deb72d.PNG",
     "index.html": "/Portfolio_Kash/index.html",
     "main.9766f986.css.map": "/Portfolio_Kash/static/css/main.9766f986.css.map",
-    "main.9420cd4b.js.map": "/Portfolio_Kash/static/js/main.9420cd4b.js.map"
+    "main.0bf63a91.js.map": "/Portfolio_Kash/static/js/main.0bf63a91.js.map"
   },
   "entrypoints": [
     "static/css/main.9766f986.css",
-    "static/js/main.9420cd4b.js"
+    "static/js/main.0bf63a91.js"
   ]
 }
