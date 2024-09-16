@@ -56,6 +56,15 @@ function App() {
         // deployedProjectLink="https://deepajha14.github.io/Rog-Free/"
         projectImg={require('./images/projectRogfree1.png')}
       />
+
+<ProjectCard
+        projectTitle="Text Case Converter"
+        projectDesc="Convert text to upper case, lower case, or capitalize sentences instantly. A user-friendly interface powered by ReactJS ensures fast, seamless interactions with real-time text transformation."
+        projectLink="https://kasharora.github.io/Textutils/"
+        projectImg={require('./images/4thproject.PNG')}
+      />
+
+      
       <AboutMe id = 'about' />
       <SkillCard id = 'skills' />
       <ContactForm id = 'contact' />
